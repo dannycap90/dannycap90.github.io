@@ -1,9 +1,8 @@
 ---
+layout: post
 title: "Education"
-date: 2023-11-22 18:17:38 -0400
-categories: Education
 ---
-Education : I'm second-year student at SKKU, majoring in SW Engineering. I have taken include [Algoritm], [Data structures] etc. Where I honed mt skills in data structeures, algorithms, and low-level programming.\nI'm open to any advice or recommendations on adiitional resources and activities that could contribute to my academic and prodessional growth in the realm of information security.
+**Education** : I'm second-year student at SKKU, majoring in SW Engineering. I have taken include [Algoritm], [Data structures] etc. Where I honed mt skills in data structeures, algorithms, and low-level programming.\nI'm open to any advice or recommendations on adiitional resources and activities that could contribute to my academic and prodessional growth in the realm of information security.
 
 ​```python
 def print_hi(name):
